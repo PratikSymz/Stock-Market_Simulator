@@ -9,7 +9,7 @@ The project was designed and developed using an MVC architecture, adhering to SO
 - [Features](#features)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies)
-- [How to Use](#howtouse)
+- [Screen Captures](#screencaptures)
 - [Credits](#credits)
 - [License](#license)
 
