@@ -61,10 +61,13 @@ The project uses an MVC architecture, where the Model represents the data and th
 5. Java
 
 ## Screen Captures
-1. [https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.06.28.png]
-2. [https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.07.08.png]
-3. [https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.46.14.png]
-4. []
+1. (https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.06.28.png)
+2. (https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.07.08.png)
+3. (https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.46.14.png)
+4. (https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.47.02.png)
+5. (https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.47.39.png)
+6. (https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.48.16.png)
+7. (https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/portfolio-performance-graph.png)
 
 ## Credits
 This project was designed and developed by Hari Vilas Panjwani and Pratik Budhiraja. Special thanks to AlphaVantage for providing the API used in this project.
