@@ -54,18 +54,17 @@ The project uses an MVC architecture, where the Model represents the data and th
 
 ## Technologies Used
 
-AlphaVantage API
-MVC Architecture
-Factory and Singleton Design Patterns
-Agile and Test-Driven Development
-Java
+1. AlphaVantage API
+2. MVC Architecture
+3. Factory and Singleton Design Patterns
+4. Agile and Test-Driven Development
+5. Java
 
-## How to Use
-To use this project, follow these steps:
-
-Clone the repository to your local machine
-Install the required dependencies using pip install -r requirements.txt
-Run the main.py file to start the application
+## Screen Captures
+1. [https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.06.28.png]
+2. [https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.07.08.png]
+3. [https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/screencaptures/Screenshot%202023-07-09%20at%2020.46.14.png]
+4. []
 
 ## Credits
 This project was designed and developed by Hari Vilas Panjwani and Pratik Budhiraja. Special thanks to AlphaVantage for providing the API used in this project.
