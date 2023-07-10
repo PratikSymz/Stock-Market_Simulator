@@ -36,7 +36,7 @@ Instructions on how to use the project.
 ## Features
 
 - Feature 1
-  ![Feature 1 Screenshot](/path/to/feature1.png)
+  ![Feature 1 Screenshot](https://github.com/PratikSymz/Stock-Market_Simulator/blob/main/res/portfolio-performance-graph.png)
   Provide a brief description of the feature.
 
 - Feature 2
